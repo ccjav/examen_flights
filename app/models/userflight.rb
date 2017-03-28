@@ -1,0 +1,2 @@
+class Userflight < ApplicationRecord
+end
